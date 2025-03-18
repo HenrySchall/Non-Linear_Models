@@ -1,4 +1,4 @@
-# MQualitative Choice
+# Qualitative Choice
 
 ![IMG](https://github.com/user-attachments/assets/cc7ff1f7-4914-4e8f-8d62-b96d1ed92029)
 
