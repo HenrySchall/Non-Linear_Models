@@ -1,21 +1,23 @@
-# Modelos de Escolha Qualitativ
+# MQualitative Choice
 
 ![IMG](https://github.com/user-attachments/assets/cc7ff1f7-4914-4e8f-8d62-b96d1ed92029)
 
-> Os modelos de escolha qualitativa, também conhecidos como modelos de escolha discreta, são usados para modelar decisões em que indivíduos ou entidades escolhem entre um conjunto finito de alternativas, ou seja, temos
-uma variável dependente categórica (Y = 1 ou 0). Ao contrário de outros modelos, nesse caso o objetivo é encontrar a probabilidaddde da ocorrência da variável dependente, ou seja, do evento binário.
+> Qualitative choice models, also known as discrete choice models, are used to model decisions in which individuals or entities choose between a finite set of alternatives, that is, we have a categorical dependent variable (Y = 1 or 0). Unlike other models, in this case the objective is to find the probability of occurrence of the binary event (dependent variable). 
 
-### Tipos de Modelos 
+### Model Types
 1) Logit
 2) Probit
 3) Tobit
 4) Poisson
-5) Logit/Probit Ordenado
-6) Logit/Probit Condicional
+5) Ordered Logit/Probit
+6) Conditional Logit/Probit
 
 ### 1) Logit (Regressão Logística)
 
-### Equação Geral 
+### General Equation
+
+--- 
+
 $log(\frac{p}{1-p}) = \beta0 + \beta1X$
 
 - P representa a probabilidade positiva (Exemplo: passar no teste de motorista)
