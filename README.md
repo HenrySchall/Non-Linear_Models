@@ -1,6 +1,6 @@
 # Modelos de Escolha Qualitativ
 
-![Imagem](https://github.com/user-attachments/assets/463b2d0d-400a-4aa8-8ddb-c0a5071da3ee)
+![IMG](https://github.com/user-attachments/assets/f707f341-7df3-49b9-bd58-d8f070c1a67b)
 
 > Os modelos de escolha qualitativa, também conhecidos como modelos de escolha discreta, são usados para modelar decisões em que indivíduos ou entidades escolhem entre um conjunto finito de alternativas, ou seja, temos
 uma variável dependente categórica (Y = 1 ou 0). Ao contrário de outros modelos, nesse caso o objetivo é encontrar a probabilidaddde da ocorrência da variável dependente, ou seja, do evento binário.
