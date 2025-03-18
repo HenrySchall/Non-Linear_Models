@@ -1,4 +1,4 @@
-# Modelos de Escolha Qualitativa
+# Modelos de Escolha Qualitativ
 
 ![Imagem](https://github.com/user-attachments/assets/463b2d0d-400a-4aa8-8ddb-c0a5071da3ee)
 
