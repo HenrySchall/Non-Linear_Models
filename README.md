@@ -1,6 +1,6 @@
 # Qualitative Choice
 
-![IMG](https://github.com/user-attachments/assets/cc7ff1f7-4914-4e8f-8d62-b96d1ed92029)
+![img5](https://github.com/user-attachments/assets/9f5d2f7e-f703-49ac-bb61-933b95e65a7b)
 
 > Qualitative choice models, also known as discrete choice models, are used to model decisions in which individuals or entities choose between a finite set of alternatives, that is, we have a categorical dependent variable (Y = 1 or 0). Unlike other models, in this case the objective is to find the probability of occurrence of the binary event (dependent variable). 
 
