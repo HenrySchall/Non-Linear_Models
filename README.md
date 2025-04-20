@@ -1,4 +1,4 @@
-# Qualitative Choice
+# Non-Linear_Models
 
 ![img6](https://github.com/user-attachments/assets/d2359140-cbd9-4151-af06-0b8d2c3bbf3d)
 
